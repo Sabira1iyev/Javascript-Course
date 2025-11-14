@@ -1,0 +1,2 @@
+
+alert('merhaba dunyam') 
