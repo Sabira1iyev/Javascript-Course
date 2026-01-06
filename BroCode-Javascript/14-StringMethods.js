@@ -1,5 +1,5 @@
 
-let userName =  " Aliyevdv";
+let userName =  "Aliyevdv";
 
 
 // console.log(userName.charAt(0)); => o indexde hansi herfin oldugunu gosterir
@@ -19,5 +19,6 @@ let userName =  " Aliyevdv";
 
 // userName = userName.repeat(3);  => girilen say qeder stringi tekrar tekrar yazir
 
-let result = userName.startsWith(" ");
-console.log(result);
+// let result = userName.startsWith(" ");
+
+console.log(result); 
