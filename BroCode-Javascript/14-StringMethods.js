@@ -21,4 +21,20 @@ let userName =  "Aliyevdv";
 
 // let result = userName.startsWith(" ");
 
-console.log(result); 
+// let result = userName.includes(" ");
+
+// if(result){
+//     console.log("your username cant include '' ");
+// }
+
+// else{
+//     console.log(userName);
+// }
+
+let phoneNumber = "123-456-7890";
+
+// phoneNumber = phoneNumber.replaceAll("-", "/"); girdiyimiz iki degiskenden ikinci birincini evez etdiyimiz olur
+
+// phoneNumber = phoneNumber.padStart(15, "0");  stringin basina lazim olan qeder 0 elave edib 15'e tamamlayir
+// phoneNumber = phoneNumber.padEnd(15, "0");   padStartin eksine sonuna elave edir
+console.log(phoneNumber);
