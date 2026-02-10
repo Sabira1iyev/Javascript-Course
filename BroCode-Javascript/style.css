@@ -81,3 +81,47 @@ button:hover{
     font-weight: bold;
 
 } */
+
+
+/* #container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+button {
+    font-size: 1.5rem;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: hsla(240, 100%, 50%, 0.747);
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: .3s ease-in-out;
+}
+
+button:hover {
+    background-color: hsla(216, 100%, 50%, 0.747);
+}
+
+button:active {
+    background-color: hsla(216, 100%, 50%, 0.747);
+}
+
+input {
+    font-size: 2rem;
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#diceResult {
+    margin: 25px;
+}
+
+#diceImages img {
+    width: 150px;
+    margin: 5px;
+} */
